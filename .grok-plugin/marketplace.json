@@ -398,7 +398,7 @@
     },
     {
       "name": "pulse-verity",
-      "description": "Read-only access to signed, verifiable Pulse Verity Index crypto prices, asset discovery, batch reads, recorded prints and signature verification. BTC, ETH and SOL samples work without an API key.",
+      "description": "Signed Pulse Verity Index crypto prices, asset discovery, batch reads, recorded prints, signature verification and optional private API feedback. BTC, ETH and SOL samples work without an API key.",
       "category": "data",
       "source": {
         "source": "url",
